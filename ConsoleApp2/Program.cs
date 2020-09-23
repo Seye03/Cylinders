@@ -10,6 +10,9 @@ namespace ConsoleApp2
              i.e the Height and Radius of a cylinder and then compute
              the volume of surface area of a cylinder based on those
              values */
+
+            //Print a greeting message
+            Console.WriteLine("Welcome to the Cyllinder Calculator");
             
             // Declaring the variables for height and radius
             double height;
